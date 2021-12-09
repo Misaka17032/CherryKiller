@@ -7,8 +7,8 @@ import random
 from tqdm import tqdm
 
 aid = 209712177
-listen_freq = 2
-print_beat = 20
+listen_freq = 4
+print_beat = 10
 
 def get_data(aid):
 	data = json.loads(requests.get("http://api.bilibili.com/archive_stat/stat?aid={}".format(aid)).text)
