@@ -1,0 +1,5 @@
+{
+	"aid": 209712177,
+	"listen_freq": 3,
+	"print_beat": 20
+}
