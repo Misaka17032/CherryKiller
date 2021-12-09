@@ -2,6 +2,8 @@
 用以监听某一个视频的数据，以判断该视频是否被限流。
 
 ## 使用方法
+点击右侧的Release或者点击[此链接](https://github.com/Misaka17032/CherryKiller/releases/download/v1.0/CherryKiller.zip)下载。
+
 确保`main.exe`、`config.txt`和`crnmsl.txt`位于同一目录下。双击运行`main.exe`。
 
 生成的报告在同目录下的`report.txt`中
